@@ -1,5 +1,5 @@
 ### Hi there 
-👋 My name is Pauline
+👋 My name is Pauline Ongchan
 
 <!--
 **pau-ongchan/pau-ongchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
